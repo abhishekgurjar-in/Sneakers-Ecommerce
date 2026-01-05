@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Sneakers-Ecommerce.git
+    git clone https://github.com/abhishekgurjarin/Sneakers-Ecommerce.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Sneakers E-commerce Product Page [here](https://abhishekboadgurjar.github.io/Sneakers-Ecommerce/).
+You can check out the live demo of the Sneakers E-commerce Product Page [here](https://abhishekgurjarin.github.io/Sneakers-Ecommerce/).
 
 
 ## Screenshots
@@ -67,6 +67,6 @@ This project was inspired by a Frontend Mentor challenge, designed to hone skill
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
 
